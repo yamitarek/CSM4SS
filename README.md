@@ -4,8 +4,6 @@ The code for Continuous State Modeling for Statistical Spectral Synthesis can be
 
 The analysis functions require the [SMS-Tools](https://github.com/MTG/sms-tools) to be installed.
 
-(https://github.com/MTG/sms-tools)
-
 It solely makes use of the samples from the [TU-Note Violin Sample Library](https://depositonce.tu-berlin.de/items/f81ba73c-4d9b-48de-9fbc-31cb03d5b9bc) and requires the directory structure to be left as is.
 
 
